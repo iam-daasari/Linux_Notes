@@ -1,3 +1,3 @@
 # Linux_Notes
 
-#This repository contains linux notes for quick revision
+This repository contains linux notes for quick revision
