@@ -1,8 +1,10 @@
-operating system is an intermediate software layer that acts as a bridge between  user and hardware.it performs process management, memory management, device management and network management because application is also a software program. it can talk to the operating system which is a software layer and this operating system depending on the program it allocated the cpu, memory and required hardware resources.
-There are other operating system as well but most popular Operating Systems are:
-1)Linux
-2)Windows
-3)Mac OS
+Operating System:
+-----------------
+operating system is an intermediate software layer that acts as a bridge between  user and hardware.it performs process management, memory management, device management and network management because application is also a software program. it can talk to the operating system which is a software layer and this operating system depending on the program it allocated the cpu, memory and required hardware resources.<br>
+There are other operating system as well but most popular Operating Systems are:<br>
+- Linux
+- Windows
+- Mac OS
 
 UNIX is the first OS that was developed in 1960 and it is open source software.
 In 1970, Minix OS was developed but minix is not completely open source. it was partially open source.
@@ -32,19 +34,19 @@ On the top of the hardware, there is a linux kernel, system utilites, system lib
 Linux Distributions:
 --------------------
 
-Ubuntu
-RedHat
-Fedora
-Kali
-Debian
-Centos
-Arch
-Alpine
+- Ubuntu
+- RedHat
+- Fedora
+- Kali
+- Debian
+- Centos
+- Arch
+- Alpine
 
 Package Manager:
 ----------------
-Package managers are help you deploy or install a dependency like python. it helps you to upgrade of the new version of the package, delete the version of the package or even maintain the packages.
-Ex: python, java
+Package managers are help you deploy or install a dependency like python. it helps you to upgrade of the new version of the package, delete the version of the package or even maintain the packages.<br>
+Ex: python, java <br>
 Using package managers, you can install python, java and you can remove from the linux machine or upgrade java id continuously maintain versions of java.
 
                                  
