@@ -1,22 +1,22 @@
 **File Management:**
 
--> ls : To list the files and folders<br>
--> cd : To Change directory.<br>
--> pwd: present working directory.<br>
--> cd ..: one step back again from pwd.<br>
--> /  : it means root of the file system.<br>
--> mkdir: creates a directory.<br>
--> rmdir: To delete a directory.<br>
--> touch: it creates a empty file.<br>
--> rm : TO Remove/delete a file.<br>
--> ls -lrt: list the files and folders with permissions (or) size that we can see.<br>
--> rm -f :  it is another command to delete/remove a directory instead of rmdir.<br>
--> cp : To Copy something.<br>
--> mv : To move or rename a file (or) folder.<br>
--> shift + G: it will navigate to the last line in a file.<br>
--> less <filename>: open a file without printing content of the file on your terminal.<br>
--> tail -20 <filename>: it will print last 20 lines in a file.<br>
--> head -10 <filename>: it will print first 10 lines in a file.<br>
--> nano <file>: opens a simple text editor like vim or vi.<br>
--> echo 'Hello' > file.txt : writes text to a file, overwriting existing content.<br>
--> echo 'Hello' >> file.txt : Appends text to a file, without overwriting. (or) we can add extra line in existed file {echo is using just for printing.}
+-> **ls**                       : To list the files and folders<br>
+-> **cd**                       : To Change directory.<br>
+-> **pwd**                      : present working directory.<br>
+-> **cd ..**                    : one step back again from pwd.<br>
+-> **/**                        : it means root of the file system.<br>
+-> **mkdir**                    : creates a directory.<br>
+-> **rmdir**                    : To delete a directory.<br>
+-> **touch**                    : it creates a empty file.<br>
+-> **rm**                       : TO Remove/delete a file.<br>
+-> **ls -lrt**                  : list the files and folders with permissions (or) size that we can see.<br>
+-> **rm -f**                    :  it is another command to delete/remove a directory instead of rmdir.<br>
+-> **cp**                       : To Copy something.<br>
+->**mv**                        : To move or rename a file (or) folder.<br>
+->**shift + G**                 : it will navigate to the last line in a file.<br>
+->**less <filename>**           : open a file without printing content of the file on your terminal.<br>
+->**tail -20 <filename>**       : it will print last 20 lines in a file.<br>
+->**head -10 <filename>**       : it will print first 10 lines in a file.<br>
+->**nano <file>**               : opens a simple text editor like vim or vi.<br>
+->**echo 'Hello' > file.txt**   : writes text to a file, overwriting existing content.<br>
+->**echo 'Hello' >> file.txt**  : Appends text to a file, without overwriting. (or) we can add extra line in existed file {echo is using just for printing.}
